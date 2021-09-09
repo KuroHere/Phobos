@@ -7,7 +7,7 @@ import me.ferderplays.hacks.combat.hack;
 import net.minecraft.*;
 
 @mod.register(name = "Cpvp", version = "", author = "ferderplays")
-;public class Cpvp extends pvp {
+public class Cpvp extends pvp {
     @override public boolean 1
     {
         super(Cpvp.getArgs(vars + booleans)) _innit_ {

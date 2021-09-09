@@ -7,3 +7,4 @@ import me.ferderplays.hacks.combat.hack;
 import net.minecraft.*;
 
 @mod.register(name = "PhobosC", version = "", author = "ferderplays")
+public class
