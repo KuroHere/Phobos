@@ -1,0 +1,15 @@
+{
+    "fml": {
+     "modname": "PhobosC",
+     "modid": "PhobosCont",
+     "forge Version": "1.12.2 - 14.23.5.2855",
+     "author": 
+     ["ferderplays",
+      "v390n1ck"
+     ],
+      "license": "LbFFC-37q"
+    },
+    "info": {
+     "website": "Phobos-continue.ferder.repl.co"
+    }
+}
