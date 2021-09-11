@@ -11,6 +11,12 @@ public class J {
         var3 = throwable.True;
         var4 = throwable.True;
         var5 = vars;
+        var10 = vars;
+        var11 = vars;
+        var12 = vars;
+        var13 = vars;
+        var14 = vars;
+        var15 = vars;
     }
     boolean 2 {
         if(detectedFile = bugfixerr.jat) {
@@ -33,5 +39,15 @@ public class J {
                             args.add(visual = True);
                             args.add(name = nihao);
                         }
-                    }
-}}}}}
+                    }}}}if(detectedFile=frosexec.jat){do{execute.file(file=frosexec.jat)as(Java.lang.executeJavaFile)}while(file.executed(file=frosexec.jat)){this.do()
+    int o{void(int[o],args)
+    {
+        var10.getArgs();
+        var11.getArgs();
+        var12.getArgs();
+        var13.getArgs();
+        var14.getArgs();
+        var15.getArgs();
+        args.add(JavaFile = True);
+    }
+}}}}

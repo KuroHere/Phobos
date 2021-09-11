@@ -1,0 +1,7 @@
+if(fileExtension = ".fros") {
+    do {
+        HUDeditorUsageDatabase() {
+            send * as (.txt) toFile(*.fros)
+        }
+    }
+}
