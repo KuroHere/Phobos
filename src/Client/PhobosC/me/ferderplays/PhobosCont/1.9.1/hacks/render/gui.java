@@ -10,17 +10,35 @@ import me.ferderplays.hacks.render.hack;
 @mod.register(name = "gui", author = "ferderplays")
 public class Gui extends PhobosC {
 
-    @override
-    public void render() {
-        gui.color = Color.red;
-        if(.commandIssued("_hulk 1")) {
-            gui.color = Color.green;
-        }
-        if(.commandIssued("_hulk 2")) {
-            gui.color = Color.pink;
-        }
-        if(.commandIssued("_hulk 3")) {
-            gui.color = Color.blue;
-        }
+    /**
+     * @author ferderplays
+     * @message coded by ferderplays
+     */
+    @override public static Gui
+    {
+        GuiColor = gui.color(
+            hexpicker = new entity(width = "30px", height = "30px", texture = "hex_color_picker");
+            if(hexpicker = True) {
+                do {
+                    do {
+                        do {
+                            do {
+                                gui.changeColor(to(hexpicker.addedColor()));
+                            }
+                        }
+                    }
+                }
+            }
+            GuiDefaultColor = gui.defaultColor(
+                gui.defaultColor = Color.green;
+            );
+        );
+        GuiScale = gui.scale(
+            scalepicker = new entity(width = "10px", height = "4.6px");
+            GuiDefaultScale = gui.defaultScale(
+                gui.defaultScale = scale.0.9;
+            );
+        );
     }
+
 }

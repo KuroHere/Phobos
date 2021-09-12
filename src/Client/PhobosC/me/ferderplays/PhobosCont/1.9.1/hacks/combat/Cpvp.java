@@ -27,16 +27,16 @@ public class Cpvp extends pvp {
         super(CrystalAura = new method());
         @eventhandler
         public void(var[*], args) {
-            int i = new int();
+            int 1 = new int();
             if(mc.wrapper.playerHolding(mc.getPlayer); in (mc.hotbar()); item(mc.EnderCrystal)) {
                 do {
                     mc.wrapper.attackEntity(mc.EnderCrystal);
 
     in range(5); {
                      int Cpvp {
-                     .onAttackTick(0.0007);
-                     .onPlaceTick(0.00000001);
-                     }
-                    }                
-                }
-}}}}
+                      .onAttackTick(0.0007);
+                      .onPlaceTick(0.00000001);
+                     };
+                    };                
+                };
+};};};};
