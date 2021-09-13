@@ -3,7 +3,7 @@ package PhobosC;
 import me.ferderplays.*;
 
 @mod.register(name = "PhobosC", description = "Continuation of Phobos Client", author = "ferderplays")
-;public class PhobosC {
+public class PhobosC {
     @name = PhobosC();
 
     @author ferderplays
@@ -41,9 +41,9 @@ public class GuiCommands {
                             .bytedFile(int[i]);
                         }
                     };
-                  );   
+                  );
                 };
             }
-        }      
+        }
     };
 };
