@@ -11,8 +11,9 @@ public class PhobosC extends Phobos {
     @issue static void()
     {
         String i = new String();
-        void(String[i], args) {
-            if(2b2t.queueStatus == Priority) {
+
+    void p (String[i], args) {
+            if(mc.2b2tqueueStatus != Priority) {
                this.issueCommand(queue.priority);
             
         }
